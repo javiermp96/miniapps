@@ -27,7 +27,9 @@ miniapps/
     ├── README.md            # Internal documentation
     ├── devoluciones.md      # Refund policy terms (Spanish)
     ├── privacidad.md        # Privacy policy documentation (Spanish)
-    └── terminos_venta.md    # Terms of sale and service agreements (Spanish)
+    └── terminos_venta.md    # Terms of sale and service agreements (Spanish)  
+
+
 🛠️ Core Modules Overview
 Module	File	Description
 Demand Scout	01_demand_scout.py	Scrapes feeds and analyzes target market signals to identify high-value opportunities.
