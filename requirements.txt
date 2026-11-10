@@ -1,0 +1,9 @@
+anthropic
+httpx
+python-dotenv
+playwright
+stripe
+# Opcional pero recomendado: API oficial de Reddit, más fiable que el RSS público.
+# Actívala con REDDIT_CLIENT_ID / REDDIT_CLIENT_SECRET en .env (gratis en
+# https://www.reddit.com/prefs/apps, tipo de app "script").
+praw

@@ -1,0 +1,25 @@
+# Nunca subas esto a ningún sitio (git, zips, chats)
+.env
+*.env
+!.env.example
+stripe_backup_code.txt
+*backup_code*
+*.pem
+*.key
+
+# Entorno virtual (se regenera con pip install -r requirements.txt)
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Salidas generadas, no código fuente
+output/
+logs/
+
+# Backups sueltos dentro de src/ (si generas uno, que no vaya en el repo)
+src/files.zip
+
+# Instaladores descargados por error en la carpeta del proyecto
+*.exe
+python-*.exe
